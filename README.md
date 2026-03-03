@@ -8,7 +8,8 @@ Welcome to the official certification verification portal for Foundry AI Academy
 ## Certificate Verification
 
 Each certificate includes:
-- Unique Certificate ID
+
+- Certificate ID
 - Certificate Holder ID for verification
 - Course completion details
 - Direct link to course information
